@@ -3,5 +3,4 @@ https://next-ecommerce-shopco.vercel.app/
 # design- figma
 https://www.figma.com/design/WWSeicN8iVzXswYRVe5oMV/Untitled?node-id=0-1&p=f&t=JNJZrzRmfi7yKyHl-0
 # ERD diagramma
-![telegram-cloud-photo-size-2-5337272300610457625-y](https://github.com/user-attachments/assets/73aeb1f7-b76a-456d-b3e6-a8be3a923545)
-![Uploading telegram-cloud-photo-size-2-5337272300610457625-y.jpg…]()
+<img width="1040" height="487" alt="Снимок экрана 2025-12-17 в 19 07 39" src="https://github.com/user-attachments/assets/594272c6-d97c-4ae7-84ce-b71496a712c7" />
